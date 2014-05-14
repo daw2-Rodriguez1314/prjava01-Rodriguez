@@ -28,7 +28,8 @@ public class Prjava01Rodriguez {
             bw.write(" </title>");bw.newLine();
             bw.write(" </head>");bw.newLine();
             bw.write(" <body>");bw.newLine();
-            bw.write(" Nova p&agrave;gina web");bw.newLine();
+            bw.write(" Nova p&agrave;gina web de Daniel Rodriguez");bw.newLine();
+            bw.write(" DAW2 UF4 pr&agrave;ctica 2");bw.newLine();
             bw.write(" </body>");bw.newLine();
             bw.write("</html>");bw.newLine();
             bw.close();
